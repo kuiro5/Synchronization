@@ -1,0 +1,337 @@
+START!
+    Professor CSEF2 is waiting with a birthday 1002
+        CSE wins.
+            CSE count: 1
+            IST count: 0
+CSEF2 enters path at time 1
+    Birthday: 1002
+    Type: Professor
+CSEF2 leaves path at time 2
+    Professor ISTF2 is waiting with a birthday 2002
+        IST wins.
+            CSE count: 0
+            IST count: 1
+ISTF2 enters path at time 2
+    Birthday: 2002
+    Type: Professor
+ISTF2 leaves path at time 3
+    Student CSES3 is waiting with a birthday 3003
+        CSE wins.
+            CSE count: 1
+            IST count: 0
+CSES3 enters path at time 3
+    Birthday: 3003
+    Type: Student
+CSES3 leaves path at time 4
+No one at path!!! at time 4
+    Student ISTS1 is waiting with a birthday 4001
+        IST wins.
+            CSE count: 0
+            IST count: 1
+ISTS1 enters path at time 5
+    Birthday: 4001
+    Type: Student
+ISTS1 leaves path at time 6
+    Professor CSEF1 is waiting with a birthday 1001
+    Professor CSEF2 is waiting with a birthday 1002
+        CSE wins.
+            CSE count: 2
+            IST count: 0
+CSEF2 enters path at time 6
+    Birthday: 1002
+    Type: Professor
+CSEF2 leaves path at time 7
+    Professor CSEF1 is waiting with a birthday 1001
+        CSE wins.
+            CSE count: 1
+            IST count: 0
+CSEF1 enters path at time 7
+    Birthday: 1001
+    Type: Professor
+CSEF1 leaves path at time 8
+    Student CSES1 is waiting with a birthday 3001
+    Student CSES5 is waiting with a birthday 3005
+        CSE wins.
+            CSE count: 2
+            IST count: 0
+CSES5 enters path at time 8
+    Birthday: 3005
+    Type: Student
+CSES5 leaves path at time 9
+    Student CSES1 is waiting with a birthday 3001
+        CSE wins.
+            CSE count: 1
+            IST count: 0
+CSES1 enters path at time 9
+    Birthday: 3001
+    Type: Student
+CSES1 leaves path at time 10
+    Professor CSEF1 is waiting with a birthday 1001
+    Student CSES3 is waiting with a birthday 3003
+        CSE wins.
+            CSE count: 2
+            IST count: 0
+CSEF1 enters path at time 10
+    Birthday: 1001
+    Type: Professor
+CSEF1 leaves path at time 11
+    Student CSES3 is waiting with a birthday 3003
+        CSE wins.
+            CSE count: 1
+            IST count: 0
+CSES3 enters path at time 11
+    Birthday: 3003
+    Type: Student
+CSES3 leaves path at time 12
+    Professor ISTF1 is waiting with a birthday 2001
+    Student ISTS1 is waiting with a birthday 4001
+        IST wins.
+            CSE count: 0
+            IST count: 2
+ISTF1 enters path at time 12
+    Birthday: 2001
+    Type: Professor
+ISTF1 leaves path at time 13
+    Student ISTS1 is waiting with a birthday 4001
+        IST wins.
+            CSE count: 0
+            IST count: 1
+ISTS1 enters path at time 13
+    Birthday: 4001
+    Type: Student
+ISTS1 leaves path at time 14
+    Professor CSEF1 is waiting with a birthday 1001
+    Student CSES1 is waiting with a birthday 3001
+    Professor ISTF1 is waiting with a birthday 2001
+    Student CSES2 is waiting with a birthday 3002
+    Student ISTS2 is waiting with a birthday 4002
+        CSE wins.
+            CSE count: 3
+            IST count: 2
+CSEF1 enters path at time 14
+    Birthday: 1001
+    Type: Professor
+CSEF1 leaves path at time 15
+    Student CSES1 is waiting with a birthday 3001
+    Professor ISTF1 is waiting with a birthday 2001
+    Student CSES2 is waiting with a birthday 3002
+    Student ISTS2 is waiting with a birthday 4002
+        CSE wins.
+            CSE count: 2
+            IST count: 2
+CSES2 enters path at time 15
+    Birthday: 3002
+    Type: Student
+CSES2 leaves path at time 16
+    Student CSES1 is waiting with a birthday 3001
+    Professor ISTF1 is waiting with a birthday 2001
+    Student ISTS2 is waiting with a birthday 4002
+        IST wins.
+            CSE count: 1
+            IST count: 2
+ISTF1 enters path at time 16
+    Birthday: 2001
+    Type: Professor
+ISTF1 leaves path at time 17
+    Student CSES1 is waiting with a birthday 3001
+    Student ISTS2 is waiting with a birthday 4002
+        CSE wins.
+            CSE count: 1
+            IST count: 1
+CSES1 enters path at time 17
+    Birthday: 3001
+    Type: Student
+CSES1 leaves path at time 18
+    Student ISTS2 is waiting with a birthday 4002
+        IST wins.
+            CSE count: 0
+            IST count: 1
+ISTS2 enters path at time 18
+    Birthday: 4002
+    Type: Student
+ISTS2 leaves path at time 19
+    Professor CSEF1 is waiting with a birthday 1001
+    Professor ISTF2 is waiting with a birthday 2002
+    Student CSES4 is waiting with a birthday 3004
+    Student ISTS3 is waiting with a birthday 4003
+    Student ISTS4 is waiting with a birthday 4004
+        IST wins.
+            CSE count: 2
+            IST count: 3
+ISTF2 enters path at time 19
+    Birthday: 2002
+    Type: Professor
+ISTF2 leaves path at time 20
+    Professor CSEF1 is waiting with a birthday 1001
+    Student CSES4 is waiting with a birthday 3004
+    Student ISTS3 is waiting with a birthday 4003
+    Student ISTS4 is waiting with a birthday 4004
+        CSE wins.
+            CSE count: 2
+            IST count: 2
+CSEF1 enters path at time 20
+    Birthday: 1001
+    Type: Professor
+CSEF1 leaves path at time 21
+    Student CSES4 is waiting with a birthday 3004
+    Student ISTS3 is waiting with a birthday 4003
+    Student ISTS4 is waiting with a birthday 4004
+        IST wins.
+            CSE count: 1
+            IST count: 2
+ISTS4 enters path at time 21
+    Birthday: 4004
+    Type: Student
+ISTS4 leaves path at time 22
+    Student CSES4 is waiting with a birthday 3004
+    Student ISTS3 is waiting with a birthday 4003
+        CSE wins.
+            CSE count: 1
+            IST count: 1
+CSES4 enters path at time 22
+    Birthday: 3004
+    Type: Student
+CSES4 leaves path at time 23
+    Student ISTS3 is waiting with a birthday 4003
+        IST wins.
+            CSE count: 0
+            IST count: 1
+ISTS3 enters path at time 23
+    Birthday: 4003
+    Type: Student
+ISTS3 leaves path at time 24
+    Student CSES1 is waiting with a birthday 3001
+    Professor CSEF3 is waiting with a birthday 1003
+    Professor ISTF1 is waiting with a birthday 2001
+    Student ISTS3 is waiting with a birthday 4003
+        CSE wins.
+            CSE count: 2
+            IST count: 2
+CSEF3 enters path at time 24
+    Birthday: 1003
+    Type: Professor
+CSEF3 leaves path at time 25
+    Student CSES1 is waiting with a birthday 3001
+    Professor ISTF1 is waiting with a birthday 2001
+    Student ISTS3 is waiting with a birthday 4003
+        IST wins.
+            CSE count: 1
+            IST count: 2
+ISTF1 enters path at time 25
+    Birthday: 2001
+    Type: Professor
+ISTF1 leaves path at time 26
+    Student CSES1 is waiting with a birthday 3001
+    Student ISTS3 is waiting with a birthday 4003
+        CSE wins.
+            CSE count: 1
+            IST count: 1
+CSES1 enters path at time 26
+    Birthday: 3001
+    Type: Student
+CSES1 leaves path at time 27
+    Student ISTS3 is waiting with a birthday 4003
+        IST wins.
+            CSE count: 0
+            IST count: 1
+ISTS3 enters path at time 27
+    Birthday: 4003
+    Type: Student
+ISTS3 leaves path at time 28
+    Professor ISTF2 is waiting with a birthday 2002
+    Professor ISTF1 is waiting with a birthday 2001
+        IST wins.
+            CSE count: 0
+            IST count: 2
+ISTF2 enters path at time 28
+    Birthday: 2002
+    Type: Professor
+ISTF2 leaves path at time 29
+    Professor ISTF1 is waiting with a birthday 2001
+    Student ISTS1 is waiting with a birthday 4001
+    Student ISTS2 is waiting with a birthday 4002
+        IST wins.
+            CSE count: 0
+            IST count: 3
+ISTF1 enters path at time 29
+    Birthday: 2001
+    Type: Professor
+ISTF1 leaves path at time 30
+    Student ISTS1 is waiting with a birthday 4001
+    Student ISTS2 is waiting with a birthday 4002
+    Professor ISTF2 is waiting with a birthday 2002
+    Student CSES2 is waiting with a birthday 3002
+    Student CSES3 is waiting with a birthday 3003
+    Student CSES4 is waiting with a birthday 3004
+    Student CSES5 is waiting with a birthday 3005
+        CSE wins.
+            CSE count: 4
+            IST count: 3
+CSES5 enters path at time 30
+    Birthday: 3005
+    Type: Student
+CSES5 leaves path at time 31
+    Student ISTS1 is waiting with a birthday 4001
+    Student ISTS2 is waiting with a birthday 4002
+    Professor ISTF2 is waiting with a birthday 2002
+    Student CSES2 is waiting with a birthday 3002
+    Student CSES3 is waiting with a birthday 3003
+    Student CSES4 is waiting with a birthday 3004
+        CSE wins.
+            CSE count: 3
+            IST count: 3
+CSES4 enters path at time 31
+    Birthday: 3004
+    Type: Student
+CSES4 leaves path at time 32
+    Student ISTS1 is waiting with a birthday 4001
+    Student ISTS2 is waiting with a birthday 4002
+    Professor ISTF2 is waiting with a birthday 2002
+    Student CSES2 is waiting with a birthday 3002
+    Student CSES3 is waiting with a birthday 3003
+        IST wins.
+            CSE count: 2
+            IST count: 3
+ISTF2 enters path at time 32
+    Birthday: 2002
+    Type: Professor
+ISTF2 leaves path at time 33
+    Student ISTS1 is waiting with a birthday 4001
+    Student ISTS2 is waiting with a birthday 4002
+    Student CSES2 is waiting with a birthday 3002
+    Student CSES3 is waiting with a birthday 3003
+        CSE wins.
+            CSE count: 2
+            IST count: 2
+CSES3 enters path at time 33
+    Birthday: 3003
+    Type: Student
+CSES3 leaves path at time 34
+    Student ISTS1 is waiting with a birthday 4001
+    Student ISTS2 is waiting with a birthday 4002
+    Student CSES2 is waiting with a birthday 3002
+        IST wins.
+            CSE count: 1
+            IST count: 2
+ISTS2 enters path at time 34
+    Birthday: 4002
+    Type: Student
+ISTS2 leaves path at time 35
+    Student ISTS1 is waiting with a birthday 4001
+    Student CSES2 is waiting with a birthday 3002
+        CSE wins.
+            CSE count: 1
+            IST count: 1
+CSES2 enters path at time 35
+    Birthday: 3002
+    Type: Student
+CSES2 leaves path at time 36
+    Student ISTS1 is waiting with a birthday 4001
+        IST wins.
+            CSE count: 0
+            IST count: 1
+ISTS1 enters path at time 36
+    Birthday: 4001
+    Type: Student
+ISTS1 leaves path at time 37
+END!
